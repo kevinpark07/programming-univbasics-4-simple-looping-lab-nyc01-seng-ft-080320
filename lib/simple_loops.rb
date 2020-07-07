@@ -30,6 +30,6 @@ def return_string_array(array)
   while array[n] do
     puts array[n]
     n += 1 
-    array 
+    return array 
   end
 end
