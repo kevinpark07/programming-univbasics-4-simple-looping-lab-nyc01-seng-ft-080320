@@ -23,3 +23,8 @@ def output_array (array)
     n +=1 
   end
 end
+
+def return_string_array(array)
+  n = 0 
+  
+  while 
