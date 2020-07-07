@@ -27,4 +27,9 @@ end
 def return_string_array(array)
   n = 0 
   
-  while 
+  while array[n] do
+    puts array[n]
+    n += 1 
+    array 
+  end
+end
