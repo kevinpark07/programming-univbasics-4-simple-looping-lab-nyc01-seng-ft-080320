@@ -31,4 +31,5 @@ def return_string_array(array)
     array[n] = array[n].to_s
     n += 1 
   end
+  array 
 end
